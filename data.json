@@ -1,0 +1,39 @@
+{
+  "name": "C drive storage",
+  "children":[
+    {
+      "name": "Applications",
+      "children": [
+        {
+          "name":"Chrome",
+          "size": 930
+        },
+        {
+          "name":"Spotify",
+          "size": 274
+        },
+        {
+          "name":"VSCode",
+          "size": 465
+        }
+      ]
+    },
+    {
+      "name": "Downloads",
+      "children": [
+        {
+          "name":"Music",
+          "size": 200
+        },
+        {
+          "name":"Pictures",
+          "size": 700
+        },
+        {
+          "name":"Projects",
+          "size": 800
+        }
+      ]
+    }
+  ]
+}
