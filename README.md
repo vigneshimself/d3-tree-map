@@ -1,4 +1,4 @@
-# d3-tree-map(https://vigneshimself.github.io/d3-tree-map/)
+# [d3-tree-map](https://vigneshimself.github.io/d3-tree-map/)
 
 A basic treemap in d3.js from a JSON format input file
 
