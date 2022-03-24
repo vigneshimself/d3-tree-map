@@ -1,8 +1,12 @@
 # d3-tree-map
 
 A basic treemap in d3.js from a JSON format input file. 
+
 <hr/>
+
 You can view it at [vigneshimself.github.io/d3-tree-map](https://vigneshimself.github.io/d3-tree-map/)
+
+<hr/>
 
 I took a data that was hierarchical in nature, a root folder in storage where we have the <b>Application</b>(Blue) and <b>Downloads</b>(Orange) folders, the subfolders inside, and the size of each folder. Then transformed this data using the D3 hierarchy that basically was able to connect this as a tree.
 
