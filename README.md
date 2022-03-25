@@ -10,7 +10,7 @@
 
 A basic treemap in d3.js from a JSON format input file. 
 
-I took a data that was hierarchical in nature, a root folder in storage where we have the <b>Application</b>(Blue) and <b>Downloads</b>(Orange) folders, the subfolders inside, and the size of each folder. Then transformed this data using the D3 hierarchy that basically was able to connect this as a tree.
+I took a data that was hierarchical in nature: a root folder in storage where we have the <b>Application</b>(Blue) and <b>Downloads</b>(Orange) folders, the subfolders inside, and the size of each folder. Then transformed this data using the D3 hierarchy that basically was able to connect this as a tree.
 
 Each subfolder is represented by a rectangle, whose area is proportional to its value(in this case the size of the folder in megabytes)
 
