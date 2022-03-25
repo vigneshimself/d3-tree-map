@@ -1,3 +1,9 @@
+<hr>
+
+#### You can view the visualization at [vigneshimself.github.io/d3-tree-map](https://vigneshimself.github.io/d3-tree-map/)
+
+<hr/>
+
 # d3-tree-map
 
 ![Screen Shot](https://user-images.githubusercontent.com/40684259/159454035-02e1549d-f2e1-4ca8-b6f9-72d66d6c5646.png)
@@ -8,8 +14,3 @@ I took a data that was hierarchical in nature, a root folder in storage where we
 
 Each subfolder is represented by a rectangle, whose area is proportional to its value(in this case the size of the folder in megabytes)
 
-<hr>
-
-#### You can view it at [vigneshimself.github.io/d3-tree-map](https://vigneshimself.github.io/d3-tree-map/)
-
-<hr/>
