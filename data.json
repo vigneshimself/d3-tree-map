@@ -1,25 +1,25 @@
 {
-  "name": "C drive storage",
+  "name": "C drive Storage Folder",
   "children":[
     {
-      "name": "Applications",
+      "name": "Applications Folder",
       "children": [
         {
-          "name":"Chrome",
+          "name":"Chrome.app",
           "size": 930
         },
         {
-          "name":"Spotify",
+          "name":"Spotify.app",
           "size": 274
         },
         {
-          "name":"VSCode",
+          "name":"VSCode.app",
           "size": 465
         }
       ]
     },
     {
-      "name": "Downloads",
+      "name": "Documents Folder",
       "children": [
         {
           "name":"Music",
