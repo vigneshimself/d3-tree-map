@@ -1,5 +1,5 @@
 {
-  "name": "C drive Storage Folder",
+  "name": "root directory",
   "children":[
     {
       "name": "Applications Folder",
@@ -22,7 +22,7 @@
       "name": "Documents Folder",
       "children": [
         {
-          "name":"Music",
+          "name":"Movies",
           "size": 200
         },
         {
