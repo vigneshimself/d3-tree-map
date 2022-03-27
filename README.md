@@ -1,6 +1,6 @@
 <hr>
 
-#### You can view the visualization at [vigneshimself.github.io/d3-tree-map](https://vigneshimself.github.io/d3-tree-map/)
+#### Live site [vigneshimself.github.io/d3-tree-map](https://vigneshimself.github.io/d3-tree-map/)
 
 <hr/>
 
