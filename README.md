@@ -6,7 +6,7 @@
 
 # d3-tree-map
 
-![Screen Shot](https://user-images.githubusercontent.com/40684259/160271283-d87dec85-eed5-420a-8f39-ae22f400ae91.png)
+![Screen Shot](https://user-images.githubusercontent.com/40684259/160278827-7b9e4640-b75b-4b16-b7c8-4733c217b4d6.png)
 
 A basic treemap in d3.js from a JSON format input file. 
 
