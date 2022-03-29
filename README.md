@@ -16,5 +16,5 @@ I took a data that was hierarchical in nature:
 
 A root directory in storage(the whole rectangle) where we have the <b>Application Folder</b>(blue region) and <b>Documents Folder</b>(orange region), the subfolders inside, and the size of each folder. Then transformed this data using the D3 hierarchy that basically was able to connect this as a tree.
 
-Each subfolder is represented by a rectangle, whose area is proportional to size of the subfolder in megabytes.
+Each subfolder is represented by a nested rectangle, whose area is proportional to size of the subfolder in megabytes.
 
